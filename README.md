@@ -6,7 +6,7 @@ Este repositorio contiene una colección de cuadernos de Jupyter utilizados en e
 
 | Nº | Tema | Método o concepto principal | Cuaderno |
 |----|------|------------------------------|----------|
-| 1  | Introducción a la programación científica en Python | Introducción | [S1 - Práctica de programación científica](./S1 - Práctica programación científica.ipynb) |
+| 1  | Introducción a la programación científica en Python | Introducción | [S1 - Práctica de programación científica](S1%20-%20Pr%C3%A1ctica%20de%20programaci%C3%B3n%20cient%C3%ADfica.ipynb) |
 | 2  | Oscilador Armónico Simple | Ecuaciones diferenciales ordinarias | [S3 - Oscilador armónico simple con solve_ivp](./S3%20-%20Oscilador%20arm%C3%B3nico%20simple%20con%20solve_ivp.ipynb) |
 | 3  | Péndulo físico | EDOs y caos | [S4 - Péndulo físico](./S4%20-%20P%C3%A9ndulo%20f%C3%ADsico.ipynb) |
 | 4  | Procesamiento de señales I | Sumas de Fourier | [S5 - procesamiento de señales I](./S5%20-%20procesamiento%20de%20se%C3%B1ales%20I.ipynb) |
