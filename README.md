@@ -6,7 +6,7 @@ Este repositorio contiene una colección de cuadernos de Jupyter utilizados en e
 
 | Nº | Tema | Método o concepto principal | Cuaderno |
 |----|------|------------------------------|----------|
-| 1  | Introducción a la programación científica en Python | Introducción | [S1 - Práctica de programación científica](https://github.com/j0sees/Cuadernos-Fisica-Computacional-TEC/blob/main/S1%20-%20Pr%C3%A1ctica%20programaci%C3%B3n%20cient%C3%ADfica.ipynb) |
+| 1  | Introducción a la programación científica en Python | Bibliotecas científicas | [S1 - Práctica de programación científica](https://github.com/j0sees/Cuadernos-Fisica-Computacional-TEC/blob/main/S1%20-%20Pr%C3%A1ctica%20programaci%C3%B3n%20cient%C3%ADfica.ipynb) |
 | 2  | Oscilador Armónico Simple | Ecuaciones diferenciales ordinarias | [S3 - Oscilador armónico simple con solve_ivp](https://github.com/j0sees/Cuadernos-Fisica-Computacional-TEC/blob/main/S3%20-%20Oscilador%20Arm%C3%B3nico%20Simple%20con%20solve_ivp.ipynb) |
 | 3  | Péndulo físico | EDOs y caos | [S4 - Péndulo físico](https://github.com/j0sees/Cuadernos-Fisica-Computacional-TEC/blob/main/S4%20-%20P%C3%A9ndulo%20F%C3%ADsico.ipynb) |
 | 4  | Procesamiento de señales I | Sumas de Fourier | [S5 - Procesamiento de Señales I](https://github.com/j0sees/Cuadernos-Fisica-Computacional-TEC/blob/main//S5%20-%20Procesamiento%20de%20se%C3%B1ales.ipynb) |
