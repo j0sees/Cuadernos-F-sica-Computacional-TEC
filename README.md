@@ -33,12 +33,16 @@ Este repositorio contiene una colección de cuadernos de Jupyter utilizados en e
   - `matplotlib`
   - `pandas`
 
-## Autor
+---
+
+## 👨‍🏫 Autor
 M.Sc. Jose Esteban Pérez Hidalgo  
 Profesor del curso de Física Computacional  
 Correo: jose.perez@tec.ac.cr
 
-## Licencia
+---
+
+## 📄 Licencia
 Licencia: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 Puedes copiar, modificar y redistribuir el contenido siempre y cuando des el crédito adecuado al autor original.
