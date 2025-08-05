@@ -1,9 +1,6 @@
-# Cuadernos-Física-Computacional-TEC
-En este repositorio se alojan los cuadernos de trabajo que se usaron para las clases de Física Computacional I IF4702 en el TEC
-
 # 🧪 Cuadernos de Física Computacional – TEC
 
-Este repositorio contiene una colección de cuadernos de Jupyter utilizados en el curso de **Física Computacional** impartido en el **Instituto Tecnológico de Costa Rica (TEC)**. Los cuadernos exploran diversos métodos numéricos y computacionales aplicados al análisis de sistemas físicos.
+Este repositorio contiene una colección de cuadernos de Jupyter utilizados en el curso de **Física Computacional I IF4702** impartido en el **Instituto Tecnológico de Costa Rica (TEC)**. Los cuadernos exploran diversos métodos numéricos y computacionales aplicados al análisis de sistemas físicos.
 
 ## 📘 Lista de temas
 
