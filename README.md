@@ -16,7 +16,7 @@ Este repositorio contiene una colección de cuadernos de Jupyter utilizados en e
 | 8  | Métodos estocásticos | Aleatoriedad y simulación | [S11 - Métodos estocásticos](https://github.com/j0sees/Cuadernos-Fisica-Computacional-TEC/blob/main//S11%20-%20M%C3%A9todos%20Estoc%C3%A1sticos.ipynb) |
 | 9  | Métodos de Monte Carlo | Estadística computacional | [S12 - Métodos de Monte Carlo](https://github.com/j0sees/Cuadernos-Fisica-Computacional-TEC/blob/main//S12%20-%20M%C3%A9todos%20de%20Monte%20Carlo.ipynb) |
 | 10 | Modelo de Ising | Algoritmo de Metrópolis | [S13 - Modelo de Ising](https://github.com/j0sees/Cuadernos-Fisica-Computacional-TEC/blob/main//S13%20-%20Modelo%20de%20Ising.ipynb) |
-| 11 | Introducción al aprendizaje automático | Regresión y clasificación | [S14 - Introducción al aprendizaje automático](https://github.com/j0sees/Cuadernos-Fisica-Computacional-TEC/blob/main//S14%20-%20Introducci%C3%B3n%20Al%20Aprendizaje%20Autom%C3%A1tico.ipynb) |
+| 11 | Introducción al aprendizaje automático | Regresión y clasificación | [S14 - Introducción al aprendizaje automático](https://github.com/j0sees/Cuadernos-Fisica-Computacional-TEC/blob/main//S14%20-%20Introducci%C3%B3n%20al%20Aprendizaje%20Autom%C3%A1tico.ipynb) |
 | 12 | Redes neuronales | Perceptrón y aprendizaje profundo | [S14 - Redes Neuronales](https://github.com/j0sees/Cuadernos-Fisica-Computacional-TEC/blob/main//S14%20-%20Redes%20Neuronales.ipynb) |
 
 ---
